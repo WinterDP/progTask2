@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b753717e9e2d0504f90b1aea4774453a, type: 3}
+  m_Name: ingredient1
+  m_EditorClassIdentifier: 
+  id: 
+  name: 
+  weight: 0
+  value: 0
+  equipType: 0
+  inventoryImagePath: 
+  messageIconPath: 
+  inventoryImage: {fileID: 0}
+  messageIcon: {fileID: 0}
+  modelPath: 
+  destructionData: {fileID: 0}
+  referencesPersist: 0
+  foodItem: 0
+  pickUpSound: {fileID: 0}
+  putDownSound: {fileID: 0}
+  autoCaulculate: 0
+  ingredientValue: 0
